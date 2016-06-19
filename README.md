@@ -5,4 +5,4 @@ This sie is currently histed on openshift at http://pastquestions-revision.rhclo
 change the openshift variables to point to your PC before you can get on with it 
 
 
-use npm istall to install dependencies 
+use npm install to install dependencies 
